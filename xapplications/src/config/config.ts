@@ -16,9 +16,9 @@ export const DEPARTMENT = {
 };
 
 export const DISCORD = {
-    TOKEN: "",
-    CLIENT_ID: "",
-    CLIENT_SECRET: "",
+    TOKEN: "MTIwMTMwMzU4OTkwNjMwNTA3NA.GN6LEL.I-FuYgKxpuKwKQpdiXIzeFvRoGR40GGpVmVcIs",
+    CLIENT_ID: "1201303589906305074",
+    CLIENT_SECRET: "up1wnlLmRJDTkHs-NyFo1pA9EdvbIjqE",
     GUILD_ID: "1252607608473522247"
 }
 
